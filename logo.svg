@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="60" fill="#ca8a04"/>
+  <!-- Speech bubble -->
+  <path d="M120,100 L380,100 C395,100 405,110 405,125 L405,280 C405,295 395,305 380,305 L220,305 L170,355 L180,305 L120,305 C105,305 95,295 95,280 L95,125 C95,110 105,100 120,100Z" fill="none" stroke="#ffffff" stroke-width="18" stroke-linejoin="round"/>
+  <!-- Plus symbol -->
+  <line x1="180" y1="200" x2="230" y2="200" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <line x1="205" y1="175" x2="205" y2="225" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <!-- Slash divider -->
+  <line x1="255" y1="165" x2="245" y2="240" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <!-- Minus symbol -->
+  <line x1="275" y1="200" x2="325" y2="200" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <text x="250" y="435" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="44" fill="#ffffff">SENTIMENT</text>
+</svg>
